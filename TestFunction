@@ -1,0 +1,5 @@
+function MySum(x as double, y as double) as double
+    dim ans as double
+    ans=x+y
+    Mysum=ans
+end function
